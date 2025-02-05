@@ -1,3 +1,6 @@
 ipykernel
 selenium
 requests
+webdriver-manager
+mysql-connector-python
+pandas
